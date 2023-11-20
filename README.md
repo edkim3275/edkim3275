@@ -1,9 +1,8 @@
-### Hi there 👋
-### ___ Frontend Developer
-
- Web Frontend Developer
- Blockchain Frontend Developer
- Mobile Frontend Developer
+### Hi there I'm edgar 👋
+### I'm ___ Frontend Developer
+ Web Frontend Developer<br/>
+ Blockchain Frontend Developer<br/>
+ Mobile Frontend Developer<br/>
 
 - 🔭 I’m currently working on `Tmax A&C`
 - 🌱 I’m currently learning `web3.js`, `ethers.js`
