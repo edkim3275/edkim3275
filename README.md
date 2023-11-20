@@ -1,7 +1,10 @@
 ### Hi there 👋
 ### ___ Frontend Developer
+
 Web Frontend Developer
+
 Blockchain Frontend Developer
+
 Mobile Frontend Developer
 
 - 🔭 I’m currently working on `Tmax A&C`
