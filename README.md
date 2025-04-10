@@ -7,7 +7,7 @@
 - 🔭 I’m currently open to new opportunities 😺✨
 - 🌱 I’m currently diving deeper into JavaScript
 - 📫 How to reach me: edkim3275@gmail.com
-- 👨‍💻 Check out my portfolio: https://resume.edgar-kim.com/
+- 👨‍💻 Check out my portfolio: https://gusty-lamb-662.notion.site/127e2424de88808bb67dd532324f74dd
   
 <!--
 **edkim3275/edkim3275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
